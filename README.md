@@ -18,9 +18,6 @@ This project is a complete simulation of the parabolic motion of an object using
 ## 💎 DEMO
 
 ![Parabolic Motion - Test03](https://user-images.githubusercontent.com/104341274/212258454-b1ac52c9-d136-48ac-b891-3263ea6204a8.jpg)
-![Parabolic Motion - Test02](https://user-images.githubusercontent.com/104341274/212258460-f44d6e8f-8e4e-4303-94da-bba0e8a1466b.jpg)
-![Parabolic Motion - Test01](https://user-images.githubusercontent.com/104341274/212258463-00e01abb-6fe7-4209-9ed2-606fb36b1702.jpg)
-
 
 
 ## 📚 Requirements
